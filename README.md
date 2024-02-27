@@ -1,4 +1,4 @@
-# SQL Modeling, Engineering, and Analysis Project
+# SQL Modeling, Engineering, and Analysis of Employee Data
 A database of employee data from the 1980s & 1990s from (fictional) company Pewlett Hackard was modeled, engineered, and analyzed in a research project according to the following specifications.
 
 # Specifications:
